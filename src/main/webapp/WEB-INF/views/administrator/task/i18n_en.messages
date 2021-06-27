@@ -1,0 +1,20 @@
+administrator.task.list.label.publicTasks = Public Tasks
+administrator.task.list.label.privateTasks = Private Tasks
+administrator.task.list.label.finishedTasks = Finished Tasks
+administrator.task.list.label.nonFinishedTasks = Non-Finished Tasks
+administrator.task.list.label.averageWorkFlow = Average Workflow
+administrator.task.list.label.deviationWorkFlow = Deviation Workflow
+administrator.task.list.label.maxWorkFlow = Max Workflow
+administrator.task.list.label.minWorkFlow = Min Workflow
+administrator.task.list.label.averageExecutionPeriod = Average Execution Period
+administrator.task.list.label.deviationExecutionPeriod = Deviation Execution Period
+administrator.task.list.label.maxExecutionPeriod = Max Execution Period
+administrator.task.list.label.minExecutionPeriod = Min Execution Period
+
+administrator.task.list.label.totalShouts = Total shouts
+administrator.task.list.label.trueShouts = Ratio important shouts
+administrator.task.list.label.avgEUR = EUR average
+administrator.task.list.label.avgUSD = USD average
+administrator.task.list.label.ratioEUR = Ratio 0 budget shouts
+administrator.task.list.label.eurDev = EUR deviation
+administrator.task.list.label.usdDev = USD deviation

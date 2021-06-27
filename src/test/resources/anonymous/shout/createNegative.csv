@@ -1,0 +1,8 @@
+recordIndex,author,text,info,moment,money,b
+0,Señor prueba,Hola soy una prueba hard core,https://www.example.com,2021/06/27 15:00,EUR 17.45,true
+0,Señor prueba,Hola soy una prueba pero debe tener mas de 100 caracteres por lo tanto hay que escribir mucho mas para poder saltar la validacion de forma exitosa,https://www.example.com,2021/06/27 15:00,EUR 17.45,true
+1,,Hola soy una prueba,gsdfghdfg,2021/06/27 15:00,EUR 17.45,true
+0,Señor prueba,Hola soy una prueba,https://www.example.com,2021/06/27 15:00,UER 17.45,true
+0,Señor prueba,Hola soy una prueba,https://www.example.com,2021/04/27 15:00,USD 17.45,true
+0,Señor prueba,Hola soy una prueba,https://www.example.com,,USD 17.45,true
+0,Señor prueba,Hola soy una prueba,https://www.example.com,2021/04/27 15:00,,true
